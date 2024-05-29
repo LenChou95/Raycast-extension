@@ -15,7 +15,7 @@
 log "Hello World! daily"
 
 -- 列出想要打开的网址
-set urls to {"https://coinmarketcap.com/account/my-diamonds/","https://www.coingecko.com/account/candy?locale=zh","https://sepoliafaucet.com","https://www.alchemy.com/faucets/arbitrum-sepolia","https://www.alchemy.com/faucets/optimism-sepolia","https://www.alchemy.com/faucets/polygon-amoy","https://www.okx.com/cn/x1/faucet"}
+set urls to {"https://coinmarketcap.com/account/my-diamonds/","https://www.coingecko.com/account/candy?locale=zh","https://sepoliafaucet.com","https://www.alchemy.com/faucets/arbitrum-sepolia","https://www.alchemy.com/faucets/optimism-sepolia","https://www.alchemy.com/faucets/polygon-amoy","https://www.okx.com/cn/x1/faucet","https://www.alchemy.com/faucets/base-sepolia"}
 
 tell application "Google Chrome"
 	activate
